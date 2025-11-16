@@ -80,5 +80,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 **Result:**
    	
 Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
-			
-	
+
+**Graph:**
+
+![WhatsApp Image 2025-11-09 at 06 18 10_ecca3900](https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4)
+
