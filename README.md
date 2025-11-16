@@ -58,6 +58,11 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
 <img width="772" height="299" alt="Screenshot 2025-11-01 155503" src="https://github.com/user-attachments/assets/65c73fc2-03b8-4e8d-94ef-b8943b3a078a" />
 
+
+**Graph:**
+
+<img src="https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4" width="400">
+
 **CALCULATIONS:**
 
 1.	Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
@@ -81,8 +86,5 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
    	
 Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
 
-**Graph:**
-
-<img src="https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4" width="400">
 
 
